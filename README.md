@@ -2,10 +2,10 @@
 Lab 0 for GOPH419
 
 #Italics Test# <br>
-##Bold Test## <br>
+##Bold Test## 
 ###Bold/Italics Test### <br>
-*Test 1 
-*Test 2
+*Test 1 <br>
+*Test 2 <br>
 *Test3 <br>
 
 1. Test 4
