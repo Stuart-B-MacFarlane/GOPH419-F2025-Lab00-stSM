@@ -2,7 +2,7 @@
 Lab 0 for GOPH419
 
 #Italics Test# <br>
-##Bold Test## 
+##Bold Test## <br>
 ###Bold/Italics Test### <br>
 *Test 1 <br>
 *Test 2 <br>
@@ -12,4 +12,4 @@ Lab 0 for GOPH419
 2. Test 5
 3. Test 6 <br>
 
-[GitHub](https://github.com
+[GitHub](https://github.com)
